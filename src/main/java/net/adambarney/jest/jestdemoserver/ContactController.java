@@ -1,7 +1,7 @@
 package net.adambarney.jest.jestdemoserver;
 
-import net.adambarney.jest.jestdemoserver.model.Contact.Contact;
-import net.adambarney.jest.jestdemoserver.service.ContactService.ContactService;
+import net.adambarney.jest.jestdemoserver.model.Contact;
+import net.adambarney.jest.jestdemoserver.service.ContactService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -11,12 +11,12 @@ import java.util.List;
 @RequestMapping(value="/contact")
 public class ContactController {
 
-    private ContactService contactService;
+    private final ContactService contactService;
 
     public ContactController(ContactService contactService) {
         this.contactService = contactService;
     }
-
+//    @CrossOrigin(origins = "http://localhost:8081")
     @GetMapping
     public ResponseEntity<List<Contact>> getContacts() {
         return ResponseEntity.ok(contactService.getContacts());

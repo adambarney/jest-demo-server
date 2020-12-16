@@ -1,6 +1,6 @@
-package net.adambarney.jest.jestdemoserver.service.ContactService;
+package net.adambarney.jest.jestdemoserver.service;
 
-import net.adambarney.jest.jestdemoserver.model.Contact.Contact;
+import net.adambarney.jest.jestdemoserver.model.Contact;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

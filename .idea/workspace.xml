@@ -5,60 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd723312-dd8b-4110-b408-d3fa35085614" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.git-together" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/bootRunMainClassName" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/ContactController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/JestDemoServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/model/Contact/Contact$ContactBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/model/Contact/Contact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/service/ContactService/ContactService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/adambarney/jest/jestdemoserver/ContactController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/adambarney/jest/jestdemoserver/JestDemoServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/adambarney/jest/jestdemoserver/model/Contact/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/adambarney/jest/jestdemoserver/service/ContactService/ContactService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/net/adambarney/jest/jestdemoserver/JestDemoServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/adambarney/jest/jestdemoserver/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/ContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/ContactController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/JestDemoServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/JestDemoServerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/model/Contact/Contact$ContactBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/model/Contact/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/adambarney/jest/jestdemoserver/service/ContactService/ContactService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/adambarney/jest/jestdemoserver/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/adambarney/jest/jestdemoserver/ContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/adambarney/jest/jestdemoserver/model/Contact/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/adambarney/jest/jestdemoserver/model/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/adambarney/jest/jestdemoserver/service/ContactService/ContactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/adambarney/jest/jestdemoserver/service/ContactService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -70,7 +40,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="jest-demo-server" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -100,7 +75,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -110,16 +90,20 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="net.adambarney.jest.jestdemoserver.service.ContactService" />
       <recent name="net.adambarney.jest.jestdemoserver.model.Contact" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="net.adambarney.jest.jestdemoserver.service" />
+      <recent name="net.adambarney.jest.jestdemoserver.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -131,19 +115,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -181,11 +152,89 @@
       <option name="presentableId" value="Default" />
       <updated>1606923870291</updated>
       <workItem from="1606923871363" duration="138000" />
-      <workItem from="1606924031818" duration="1719000" />
+      <workItem from="1606924031818" duration="1866000" />
+      <workItem from="1607459831228" duration="3810000" />
+      <workItem from="1607625329114" duration="6711000" />
+      <workItem from="1607981362767" duration="6202000" />
+      <workItem from="1608063458402" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="199" key="#Plugins" timestamp="1607625745803">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="199" key="#Plugins/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607625745803" />
+    <state x="670" y="427" width="926" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607625483252">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="670" y="427" width="926" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607625483252" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1608039584735">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607997130210" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1792.23.1792.1097@0.23.1920.1057" timestamp="1608039584735" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1608039584735">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607997130210" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1792.23.1792.1097@0.23.1920.1057" timestamp="1608039584735" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1608039584735">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607997130209" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1792.23.1792.1097@0.23.1920.1057" timestamp="1608039584735" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1608039584735">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607997130210" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1792.23.1792.1097@0.23.1920.1057" timestamp="1608039584735" />
+    <state width="1878" height="290" key="GridCell.Tab.1.bottom" timestamp="1608039584736">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.bottom/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607997130211" />
+    <state width="1878" height="290" key="GridCell.Tab.1.bottom/0.23.1920.1057/-1792.23.1792.1097@0.23.1920.1057" timestamp="1608039584736" />
+    <state width="1878" height="290" key="GridCell.Tab.1.center" timestamp="1608039584736">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.center/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607997130211" />
+    <state width="1878" height="290" key="GridCell.Tab.1.center/0.23.1920.1057/-1792.23.1792.1097@0.23.1920.1057" timestamp="1608039584736" />
+    <state width="1878" height="290" key="GridCell.Tab.1.left" timestamp="1608039584736">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.left/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607997130210" />
+    <state width="1878" height="290" key="GridCell.Tab.1.left/0.23.1920.1057/-1792.23.1792.1097@0.23.1920.1057" timestamp="1608039584736" />
+    <state width="1878" height="290" key="GridCell.Tab.1.right" timestamp="1608039584736">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.right/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607997130211" />
+    <state width="1878" height="290" key="GridCell.Tab.1.right/0.23.1920.1057/-1792.23.1792.1097@0.23.1920.1057" timestamp="1608039584736" />
+    <state width="1878" height="358" key="GridCell.Tab.2.bottom" timestamp="1607634395354">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.2.bottom/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607634395354" />
+    <state width="1878" height="358" key="GridCell.Tab.2.center" timestamp="1607634395354">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.2.center/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607634395354" />
+    <state width="1878" height="358" key="GridCell.Tab.2.left" timestamp="1607634395354">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.2.left/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607634395354" />
+    <state width="1878" height="358" key="GridCell.Tab.2.right" timestamp="1607634395354">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.2.right/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607634395354" />
+    <state x="461" y="190" key="SettingsEditor" timestamp="1607625897361">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="461" y="190" key="SettingsEditor/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607625897361" />
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1607625921955">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup/-1792.23.1792.1097/0.23.1920.1057@0.23.1920.1057" timestamp="1607625921955" />
   </component>
 </project>

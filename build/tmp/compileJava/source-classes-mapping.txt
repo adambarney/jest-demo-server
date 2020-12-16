@@ -1,9 +1,12 @@
-net/adambarney/jest/jestdemoserver/model/Contact/Contact.java
- net.adambarney.jest.jestdemoserver.model.Contact.Contact
- net.adambarney.jest.jestdemoserver.model.Contact.Contact$ContactBuilder
-net/adambarney/jest/jestdemoserver/service/ContactService/ContactService.java
- net.adambarney.jest.jestdemoserver.service.ContactService.ContactService
+net/adambarney/jest/jestdemoserver/model/Contact.java
+ net.adambarney.jest.jestdemoserver.model.Contact
+ net.adambarney.jest.jestdemoserver.model.Contact$ContactBuilder
+net/adambarney/jest/jestdemoserver/service/ContactService.java
+ net.adambarney.jest.jestdemoserver.service.ContactService
 net/adambarney/jest/jestdemoserver/JestDemoServerApplication.java
  net.adambarney.jest.jestdemoserver.JestDemoServerApplication
 net/adambarney/jest/jestdemoserver/ContactController.java
  net.adambarney.jest.jestdemoserver.ContactController
+net/adambarney/jest/jestdemoserver/config/CorsConfig.java
+ net.adambarney.jest.jestdemoserver.config.CorsConfig
+ net.adambarney.jest.jestdemoserver.config.CorsConfig$1

@@ -1,4 +1,4 @@
-package net.adambarney.jest.jestdemoserver.model.Contact;
+package net.adambarney.jest.jestdemoserver.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
